@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace BigDamnHeros.WrathAndGlory
+namespace BigDamnHeros.WrathAndGlory.API
 {
     public class Program
     {

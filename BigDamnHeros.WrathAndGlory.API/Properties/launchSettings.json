@@ -4,8 +4,8 @@
     "windowsAuthentication": false, 
     "anonymousAuthentication": true, 
     "iisExpress": {
-      "applicationUrl": "http://localhost:20034",
-      "sslPort": 44360
+      "applicationUrl": "http://localhost:47423",
+      "sslPort": 44396
     }
   },
   "profiles": {
@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "BigDamnHeros.WrathAndGlory": {
+    "BigDamnHeros.WrathAndGlory.API": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/values",

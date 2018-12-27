@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace BigDamnHeros.WrathAndGlory.Controllers
+namespace BigDamnHeros.WrathAndGlory.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

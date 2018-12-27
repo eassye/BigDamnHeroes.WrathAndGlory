@@ -12086,11 +12086,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Development\\BigDamnHeros\\BigDamnHeros.WrathAndGlory\\BigDamnHeros.WrathAndGlory.csproj",
-      "projectName": "BigDamnHeros.WrathAndGlory",
-      "projectPath": "H:\\Development\\BigDamnHeros\\BigDamnHeros.WrathAndGlory\\BigDamnHeros.WrathAndGlory.csproj",
+      "projectUniqueName": "H:\\Development\\BigDamnHeros\\BigDamnHeros.WrathAndGlory.API\\BigDamnHeros.WrathAndGlory.API.csproj",
+      "projectName": "BigDamnHeros.WrathAndGlory.API",
+      "projectPath": "H:\\Development\\BigDamnHeros\\BigDamnHeros.WrathAndGlory.API\\BigDamnHeros.WrathAndGlory.API.csproj",
       "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-      "outputPath": "H:\\Development\\BigDamnHeros\\BigDamnHeros.WrathAndGlory\\obj\\",
+      "outputPath": "H:\\Development\\BigDamnHeros\\BigDamnHeros.WrathAndGlory.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

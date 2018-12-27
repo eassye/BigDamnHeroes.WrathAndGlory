@@ -11,7 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace BigDamnHeros.WrathAndGlory
+namespace BigDamnHeros.WrathAndGlory.API
 {
     public class Startup
     {
