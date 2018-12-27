@@ -12,4 +12,8 @@
     <PackageReference Include="MSTest.TestFramework" Version="1.3.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BigDamnHeros.WrathAndGlory.Service\BigDamnHeros.WrathAndGlory.Service.csproj" />
+  </ItemGroup>
+
 </Project>

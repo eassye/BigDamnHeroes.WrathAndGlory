@@ -1,0 +1,14 @@
+H:\Development\BigDamnHeros\BigDamnHeros.WrathAndGlory.API\bin\Debug\netcoreapp2.2\BigDamnHeros.WrathAndGlory.API.deps.json
+H:\Development\BigDamnHeros\BigDamnHeros.WrathAndGlory.API\bin\Debug\netcoreapp2.2\BigDamnHeros.WrathAndGlory.API.runtimeconfig.json
+H:\Development\BigDamnHeros\BigDamnHeros.WrathAndGlory.API\bin\Debug\netcoreapp2.2\BigDamnHeros.WrathAndGlory.API.runtimeconfig.dev.json
+H:\Development\BigDamnHeros\BigDamnHeros.WrathAndGlory.API\bin\Debug\netcoreapp2.2\BigDamnHeros.WrathAndGlory.API.dll
+H:\Development\BigDamnHeros\BigDamnHeros.WrathAndGlory.API\bin\Debug\netcoreapp2.2\BigDamnHeros.WrathAndGlory.API.pdb
+H:\Development\BigDamnHeros\BigDamnHeros.WrathAndGlory.API\obj\Debug\netcoreapp2.2\BigDamnHeros.WrathAndGlory.API.csprojAssemblyReference.cache
+H:\Development\BigDamnHeros\BigDamnHeros.WrathAndGlory.API\obj\Debug\netcoreapp2.2\BigDamnHeros.WrathAndGlory.API.csproj.CoreCompileInputs.cache
+H:\Development\BigDamnHeros\BigDamnHeros.WrathAndGlory.API\obj\Debug\netcoreapp2.2\BigDamnHeros.WrathAndGlory.API.RazorAssemblyInfo.cache
+H:\Development\BigDamnHeros\BigDamnHeros.WrathAndGlory.API\obj\Debug\netcoreapp2.2\BigDamnHeros.WrathAndGlory.API.RazorAssemblyInfo.cs
+H:\Development\BigDamnHeros\BigDamnHeros.WrathAndGlory.API\obj\Debug\netcoreapp2.2\BigDamnHeros.WrathAndGlory.API.AssemblyInfoInputs.cache
+H:\Development\BigDamnHeros\BigDamnHeros.WrathAndGlory.API\obj\Debug\netcoreapp2.2\BigDamnHeros.WrathAndGlory.API.AssemblyInfo.cs
+H:\Development\BigDamnHeros\BigDamnHeros.WrathAndGlory.API\obj\Debug\netcoreapp2.2\BigDamnHeros.WrathAndGlory.API.RazorTargetAssemblyInfo.cache
+H:\Development\BigDamnHeros\BigDamnHeros.WrathAndGlory.API\obj\Debug\netcoreapp2.2\BigDamnHeros.WrathAndGlory.API.dll
+H:\Development\BigDamnHeros\BigDamnHeros.WrathAndGlory.API\obj\Debug\netcoreapp2.2\BigDamnHeros.WrathAndGlory.API.pdb
