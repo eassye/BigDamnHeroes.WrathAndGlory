@@ -1,1 +1,4 @@
 /.vscode
+/BigDamnHeros.WrathAndGlory.API/obj
+/BigDamnHeros.WrathAndGlory.Service/obj
+/BigDamnHeros.WrathAndGlory.Service.Test/obj
