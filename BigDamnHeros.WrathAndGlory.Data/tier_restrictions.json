@@ -1,0 +1,52 @@
+[
+    {
+        "Tier": 1,
+        "BuildPoints": 100,
+        "BaseAttributeMaximum": 2,
+        "SkillMaximum": 4,
+        "MaximumStartingTalens": 2,
+        "MaxPsychicPowers": 3,
+        "MaxDicePoolBonus": 4,
+        "MaxDifficultyPenalty": 4
+    },
+    {
+        "Tier": 2,
+        "BuildPoints": 200,
+        "BaseAttributeMaximum": 6,
+        "SkillMaximum": 5,
+        "MaximumStartingTalens": 3,
+        "MaxPsychicPowers": 4,
+        "MaxDicePoolBonus": 5,
+        "MaxDifficultyPenalty": 5
+    },
+    {
+        "Tier": 3,
+        "BuildPoints": 300,
+        "BaseAttributeMaximum": 8,
+        "SkillMaximum": 6,
+        "MaximumStartingTalens": 4,
+        "MaxPsychicPowers": 5,
+        "MaxDicePoolBonus": 6,
+        "MaxDifficultyPenalty": 6
+    },
+    {
+        "Tier": 4,
+        "BuildPoints": 400,
+        "BaseAttributeMaximum": 10,
+        "SkillMaximum": 7,
+        "MaximumStartingTalens": 5,
+        "MaxPsychicPowers": 6,
+        "MaxDicePoolBonus": 7,
+        "MaxDifficultyPenalty": 7
+    },
+    {
+        "Tier": 5,
+        "BuildPoints": 500,
+        "BaseAttributeMaximum": 12,
+        "SkillMaximum": 8,
+        "MaximumStartingTalens": 5,
+        "MaxPsychicPowers": 7,
+        "MaxDicePoolBonus": 8,
+        "MaxDifficultyPenalty": 8
+    }
+]

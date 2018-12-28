@@ -1,0 +1,87 @@
+[
+    {
+        "Name": "Human",
+        "BuildPointCost": 0,
+        "BaseTier": 1,
+        "Speed": 6,
+        "AttributeModifications": 
+        {
+          "None": "None"  
+        },
+        "SpeciesAbilities":
+        [
+            "None"   
+        ]
+    },
+    {
+        "Name": "Eldar",
+        "BuildPointCost": 10,
+        "BaseTier": 1,
+        "Speed": 8,
+        "AttributeModifications":
+        {
+            "Agility": 1
+        },
+        "SpeciesAbilities":
+        [
+            "Outsider", 
+            "Intense Emotion", 
+            "Psychosensitive"
+        ]
+    },
+    {
+        "Name": "Ork",
+        "BuildPointCost": 10,
+        "BaseTier": 1,
+        "Speed": 6,
+        "AttributeModifications":
+        {
+            "Toughness": 1
+        },
+        "SpeciesAbilities":
+        [
+            "Outsider",
+            "Orky",
+            "Bigger is Better"
+        ]
+    },
+    {
+        "Name": "Adeptus Astartes",
+        "BuildPointCost": 50,
+        "BaseTier": 2,
+        "Speed": 7,
+        "AttributeModifications":
+        {
+            "Strength": 1,
+            "Toughness": 1,
+            "Agility": 1,
+            "Resolve": 1
+        },
+        "SpeciesAbilities":
+        [
+            "Space Marine Implants",
+            "Honour the Chapter",
+            "Angel of Death"
+        ]
+    },
+    {
+        "Name": "Primaris Astartes",
+        "BuildPointCost": 100,
+        "BaseTier": 4,
+        "Speed": 6,
+        "AttributeModifications":
+        {
+            "Strength": 2,
+            "Toughness": 1,
+            "Agility": 1,
+            "Resolve": 1,
+            "Wounds": 4
+        },
+        "SpeciesAbilities":
+        [
+            "Space Marine Implants",
+            "Honour the Chapter (Primaris)",
+            "Angel of Death"
+        ]
+    }
+]
