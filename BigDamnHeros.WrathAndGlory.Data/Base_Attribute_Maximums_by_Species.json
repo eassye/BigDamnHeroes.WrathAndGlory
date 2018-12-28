@@ -1,0 +1,57 @@
+[
+    {
+        "Race":"Human",
+        "Strength":8,
+        "Agility":8,
+        "Toughness":8,
+        "Intellect":8,
+        "Willpower":8,
+        "Fellowship":8,
+        "Initiative":8,
+        "Speed":8
+    },
+    {
+        "Race":"Ork",
+        "Strength":12,
+        "Agility":7,
+        "Toughness":12,
+        "Intellect":7,
+        "Willpower":7,
+        "Fellowship":7,
+        "Initiative":7,
+        "Speed":8
+    },
+    {
+        "Race":"Eldar",
+        "Strength":7,
+        "Agility":12,
+        "Toughness":7,
+        "Intellect":10,
+        "Willpower":12,
+        "Fellowship":8,
+        "Initiative":12,
+        "Speed":10
+    },
+    {
+        "Race":"Space Marine",
+        "Strength":10,
+        "Agility":9,
+        "Toughness":10,
+        "Intellect":10,
+        "Willpower":10,
+        "Fellowship":8,
+        "Initiative":9,
+        "Speed":9
+    },
+    {
+        "Race":"Primaris Marine",
+        "Strength":12,
+        "Agility":9,
+        "Toughness":12,
+        "Intellect":10,
+        "Willpower":10,
+        "Fellowship":8,
+        "Initiative":9,
+        "Speed":9
+    }
+]
