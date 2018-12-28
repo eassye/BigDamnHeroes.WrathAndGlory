@@ -12102,11 +12102,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "f:\\Coding\\Wrath&Glory\\ProjectFiles_Git\\BigDamnHeros.WrathAndGlory\\BigDamnHeros.WrathAndGlory.API\\BigDamnHeros.WrathAndGlory.API.csproj",
+      "projectUniqueName": "F:\\Coding\\Wrath&Glory\\ProjectFiles_Git\\BigDamnHeros.WrathAndGlory\\BigDamnHeros.WrathAndGlory.API\\BigDamnHeros.WrathAndGlory.API.csproj",
       "projectName": "BigDamnHeros.WrathAndGlory.API",
-      "projectPath": "f:\\Coding\\Wrath&Glory\\ProjectFiles_Git\\BigDamnHeros.WrathAndGlory\\BigDamnHeros.WrathAndGlory.API\\BigDamnHeros.WrathAndGlory.API.csproj",
+      "projectPath": "F:\\Coding\\Wrath&Glory\\ProjectFiles_Git\\BigDamnHeros.WrathAndGlory\\BigDamnHeros.WrathAndGlory.API\\BigDamnHeros.WrathAndGlory.API.csproj",
       "packagesPath": "C:\\Users\\Beaves\\.nuget\\packages\\",
-      "outputPath": "f:\\Coding\\Wrath&Glory\\ProjectFiles_Git\\BigDamnHeros.WrathAndGlory\\BigDamnHeros.WrathAndGlory.API\\obj\\",
+      "outputPath": "F:\\Coding\\Wrath&Glory\\ProjectFiles_Git\\BigDamnHeros.WrathAndGlory\\BigDamnHeros.WrathAndGlory.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12123,8 +12123,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "f:\\Coding\\Wrath&Glory\\ProjectFiles_Git\\BigDamnHeros.WrathAndGlory\\BigDamnHeros.WrathAndGlory.Service\\BigDamnHeros.WrathAndGlory.Service.csproj": {
-              "projectPath": "f:\\Coding\\Wrath&Glory\\ProjectFiles_Git\\BigDamnHeros.WrathAndGlory\\BigDamnHeros.WrathAndGlory.Service\\BigDamnHeros.WrathAndGlory.Service.csproj"
+            "F:\\Coding\\Wrath&Glory\\ProjectFiles_Git\\BigDamnHeros.WrathAndGlory\\BigDamnHeros.WrathAndGlory.Service\\BigDamnHeros.WrathAndGlory.Service.csproj": {
+              "projectPath": "F:\\Coding\\Wrath&Glory\\ProjectFiles_Git\\BigDamnHeros.WrathAndGlory\\BigDamnHeros.WrathAndGlory.Service\\BigDamnHeros.WrathAndGlory.Service.csproj"
             }
           }
         }

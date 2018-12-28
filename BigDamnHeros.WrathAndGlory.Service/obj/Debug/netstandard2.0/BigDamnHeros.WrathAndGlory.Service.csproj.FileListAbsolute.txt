@@ -1,0 +1,9 @@
+F:\Coding\Wrath&Glory\ProjectFiles_Git\BigDamnHeros.WrathAndGlory\BigDamnHeros.WrathAndGlory.Service\bin\Debug\netstandard2.0\BigDamnHeros.WrathAndGlory.Service.deps.json
+F:\Coding\Wrath&Glory\ProjectFiles_Git\BigDamnHeros.WrathAndGlory\BigDamnHeros.WrathAndGlory.Service\bin\Debug\netstandard2.0\BigDamnHeros.WrathAndGlory.Service.dll
+F:\Coding\Wrath&Glory\ProjectFiles_Git\BigDamnHeros.WrathAndGlory\BigDamnHeros.WrathAndGlory.Service\bin\Debug\netstandard2.0\BigDamnHeros.WrathAndGlory.Service.pdb
+F:\Coding\Wrath&Glory\ProjectFiles_Git\BigDamnHeros.WrathAndGlory\BigDamnHeros.WrathAndGlory.Service\obj\Debug\netstandard2.0\BigDamnHeros.WrathAndGlory.Service.csprojAssemblyReference.cache
+F:\Coding\Wrath&Glory\ProjectFiles_Git\BigDamnHeros.WrathAndGlory\BigDamnHeros.WrathAndGlory.Service\obj\Debug\netstandard2.0\BigDamnHeros.WrathAndGlory.Service.csproj.CoreCompileInputs.cache
+F:\Coding\Wrath&Glory\ProjectFiles_Git\BigDamnHeros.WrathAndGlory\BigDamnHeros.WrathAndGlory.Service\obj\Debug\netstandard2.0\BigDamnHeros.WrathAndGlory.Service.AssemblyInfoInputs.cache
+F:\Coding\Wrath&Glory\ProjectFiles_Git\BigDamnHeros.WrathAndGlory\BigDamnHeros.WrathAndGlory.Service\obj\Debug\netstandard2.0\BigDamnHeros.WrathAndGlory.Service.AssemblyInfo.cs
+F:\Coding\Wrath&Glory\ProjectFiles_Git\BigDamnHeros.WrathAndGlory\BigDamnHeros.WrathAndGlory.Service\obj\Debug\netstandard2.0\BigDamnHeros.WrathAndGlory.Service.dll
+F:\Coding\Wrath&Glory\ProjectFiles_Git\BigDamnHeros.WrathAndGlory\BigDamnHeros.WrathAndGlory.Service\obj\Debug\netstandard2.0\BigDamnHeros.WrathAndGlory.Service.pdb
