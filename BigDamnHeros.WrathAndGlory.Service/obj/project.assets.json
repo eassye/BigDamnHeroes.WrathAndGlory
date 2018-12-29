@@ -179,28 +179,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Beaves\\.nuget\\packages\\": {},
+    "C:\\Users\\erick\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Coding\\Wrath&Glory\\ProjectFiles_Git\\BigDamnHeros.WrathAndGlory\\BigDamnHeros.WrathAndGlory.Service\\BigDamnHeros.WrathAndGlory.Service.csproj",
+      "projectUniqueName": "h:\\Development\\BigDamnHeros\\BigDamnHeros.WrathAndGlory.Service\\BigDamnHeros.WrathAndGlory.Service.csproj",
       "projectName": "BigDamnHeros.WrathAndGlory.Service",
-      "projectPath": "F:\\Coding\\Wrath&Glory\\ProjectFiles_Git\\BigDamnHeros.WrathAndGlory\\BigDamnHeros.WrathAndGlory.Service\\BigDamnHeros.WrathAndGlory.Service.csproj",
-      "packagesPath": "C:\\Users\\Beaves\\.nuget\\packages\\",
-      "outputPath": "F:\\Coding\\Wrath&Glory\\ProjectFiles_Git\\BigDamnHeros.WrathAndGlory\\BigDamnHeros.WrathAndGlory.Service\\obj\\",
+      "projectPath": "h:\\Development\\BigDamnHeros\\BigDamnHeros.WrathAndGlory.Service\\BigDamnHeros.WrathAndGlory.Service.csproj",
+      "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+      "outputPath": "h:\\Development\\BigDamnHeros\\BigDamnHeros.WrathAndGlory.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Beaves\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

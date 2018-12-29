@@ -7178,7 +7178,7 @@
       ]
     },
     "Microsoft.Win32.Registry/4.5.0": {
-      "sha512": "vduxuHEqRgRrTE8wYG8Wxj/+6wwzddOmZzjKZx6rFMc/91aUBxI5etAFYxesoNaIja5NpgSTcnk6cN8BeYXf9A==",
+      "sha512": "+FWlwd//+Tt56316p00hVePBCouXyEzT86Jb3+AuRotTND0IYn0OO3obs1gnQEs/txEnt+rF2JBGLItTG+Be6A==",
       "type": "package",
       "path": "microsoft.win32.registry/4.5.0",
       "files": [
@@ -10634,7 +10634,7 @@
       ]
     },
     "System.Security.AccessControl/4.5.0": {
-      "sha512": "6RQtcT+TyDgLUFsAnmmdfRRGdLYKxSZGkSPOd052tvYFxOTMaQb6ANlwhGqZtNO52PosaCoXu7uatFneujAxmA==",
+      "sha512": "vW8Eoq0TMyz5vAG/6ce483x/CP83fgm4SJe5P8Tb1tZaobcvPrbMEL7rhH1DRdrYbbb6F0vq3OlzmK0Pkwks5A==",
       "type": "package",
       "path": "system.security.accesscontrol/4.5.0",
       "files": [
@@ -11119,7 +11119,7 @@
       ]
     },
     "System.Security.Principal.Windows/4.5.0": {
-      "sha512": "WA9ETb/pY3BjnxKjBUHEgO59B7d/nnmjHFsqjJ2eDT780nD769CT1/bw2ia0Z6W7NqlcqokE6sKGKa6uw88XGA==",
+      "sha512": "U77HfRXlZlOeIXd//Yoj6Jnk8AXlbeisf1oq1os+hxOGVnuG+lGSfGqTwTZBoORFF6j/0q7HXIl8cqwQ9aUGqQ==",
       "type": "package",
       "path": "system.security.principal.windows/4.5.0",
       "files": [
@@ -12096,35 +12096,37 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Beaves\\.nuget\\packages\\": {},
+    "C:\\Users\\erick\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Coding\\Wrath&Glory\\ProjectFiles_Git\\BigDamnHeros.WrathAndGlory\\BigDamnHeros.WrathAndGlory.API\\BigDamnHeros.WrathAndGlory.API.csproj",
+      "projectUniqueName": "h:\\Development\\BigDamnHeros\\BigDamnHeros.WrathAndGlory.API\\BigDamnHeros.WrathAndGlory.API.csproj",
       "projectName": "BigDamnHeros.WrathAndGlory.API",
-      "projectPath": "F:\\Coding\\Wrath&Glory\\ProjectFiles_Git\\BigDamnHeros.WrathAndGlory\\BigDamnHeros.WrathAndGlory.API\\BigDamnHeros.WrathAndGlory.API.csproj",
-      "packagesPath": "C:\\Users\\Beaves\\.nuget\\packages\\",
-      "outputPath": "F:\\Coding\\Wrath&Glory\\ProjectFiles_Git\\BigDamnHeros.WrathAndGlory\\BigDamnHeros.WrathAndGlory.API\\obj\\",
+      "projectPath": "h:\\Development\\BigDamnHeros\\BigDamnHeros.WrathAndGlory.API\\BigDamnHeros.WrathAndGlory.API.csproj",
+      "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+      "outputPath": "h:\\Development\\BigDamnHeros\\BigDamnHeros.WrathAndGlory.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Beaves\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "F:\\Coding\\Wrath&Glory\\ProjectFiles_Git\\BigDamnHeros.WrathAndGlory\\BigDamnHeros.WrathAndGlory.Service\\BigDamnHeros.WrathAndGlory.Service.csproj": {
-              "projectPath": "F:\\Coding\\Wrath&Glory\\ProjectFiles_Git\\BigDamnHeros.WrathAndGlory\\BigDamnHeros.WrathAndGlory.Service\\BigDamnHeros.WrathAndGlory.Service.csproj"
+            "h:\\Development\\BigDamnHeros\\BigDamnHeros.WrathAndGlory.Service\\BigDamnHeros.WrathAndGlory.Service.csproj": {
+              "projectPath": "h:\\Development\\BigDamnHeros\\BigDamnHeros.WrathAndGlory.Service\\BigDamnHeros.WrathAndGlory.Service.csproj"
             }
           }
         }
