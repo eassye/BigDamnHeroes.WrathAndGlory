@@ -4,13 +4,11 @@
         "BuildPointCost": 0,
         "BaseTier": 1,
         "Speed": 6,
-        "AttributeModifications": 
-        {
-          "None": "None"  
+        "AttributeModifications": {
+            "None": "None"
         },
-        "SpeciesAbilities":
-        [
-            "None"   
+        "SpeciesAbilities": [
+            "None"
         ]
     },
     {
@@ -18,14 +16,12 @@
         "BuildPointCost": 10,
         "BaseTier": 1,
         "Speed": 8,
-        "AttributeModifications":
-        {
+        "AttributeModifications": {
             "Agility": 1
         },
-        "SpeciesAbilities":
-        [
-            "Outsider", 
-            "Intense Emotion", 
+        "SpeciesAbilities": [
+            "Outsider",
+            "Intense Emotion",
             "Psychosensitive"
         ]
     },
@@ -34,12 +30,10 @@
         "BuildPointCost": 10,
         "BaseTier": 1,
         "Speed": 6,
-        "AttributeModifications":
-        {
+        "AttributeModifications": {
             "Toughness": 1
         },
-        "SpeciesAbilities":
-        [
+        "SpeciesAbilities": [
             "Outsider",
             "Orky",
             "Bigger is Better"
@@ -50,15 +44,13 @@
         "BuildPointCost": 50,
         "BaseTier": 2,
         "Speed": 7,
-        "AttributeModifications":
-        {
+        "AttributeModifications": {
             "Strength": 1,
             "Toughness": 1,
             "Agility": 1,
             "Resolve": 1
         },
-        "SpeciesAbilities":
-        [
+        "SpeciesAbilities": [
             "Space Marine Implants",
             "Honour the Chapter",
             "Angel of Death"
@@ -69,16 +61,14 @@
         "BuildPointCost": 100,
         "BaseTier": 4,
         "Speed": 6,
-        "AttributeModifications":
-        {
+        "AttributeModifications": {
             "Strength": 2,
             "Toughness": 1,
             "Agility": 1,
             "Resolve": 1,
             "Wounds": 4
         },
-        "SpeciesAbilities":
-        [
+        "SpeciesAbilities": [
             "Space Marine Implants",
             "Honour the Chapter (Primaris)",
             "Angel of Death"
