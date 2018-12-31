@@ -1,0 +1,402 @@
+[
+    {
+        "Talent":"Acts of Faith",
+        "Cost":40,
+        "Prerequisites":
+        [
+            "Adeptus Ministorum",
+            "Adepta Sororitas"
+        ],
+        "Effect":"Grants Faith and bonuses with various options."
+    },
+    {
+        "Talent":"Augmetic <Specific Implant(s)>",
+        "Cost":20,
+        "Prerequisites":
+        [
+            "Toughness 2"
+        ],
+        "Effect":"Gain an augmetic or cybernetic implant."
+    },
+    {
+        "Talent":"Cybernetic Reconstruction",
+        "Cost":30,
+        "Prerequisites":
+        [
+            "Tier 2"
+        ],
+        "Effect":"Does not bleed or breathe. +1/2 Rank to Tech and Soak tests. +2DN to Persuasion tests."
+    },
+    {
+        "Talent":"Betrayer",
+        "Cost":30,
+        "Prerequisites":
+        [
+            "Chaos",
+            "Devotees"
+        ],
+        "Effect":"May sacrifice a devotee for Wrath."
+    },
+    {
+        "Talent":"Chaos Familiar",
+        "Cost":20,
+        "Prerequisites":
+        [
+            "Chaos"
+        ],
+        "Effect":"Gains a minion spawned from the warp."
+    },
+    {
+        "Talent":"Bombardment",
+        "Cost":40,
+        "Prerequisites":
+        [
+            "Aeldari",
+            "Astra Militarum",
+            "Adeptus Astartes",
+            "Rogue Trader",
+            "Chaos",
+            "Ork"
+        ],
+        "Effect":"Calls in a bombardment once per game."
+    },
+    {
+        "Talent":"Counterstrike",
+        "Cost":30,
+        "Prerequisites":
+        [
+            "Weapon Skill 5"
+        ],
+        "Effect":"Strike back if you are attacked in melee."
+    },
+    {
+        "Talent":"Dedicant",
+        "Cost":30,
+        "Prerequisites":
+        [
+            "One or more ability that grants a bonus at 1/2 Rank"
+        ],
+        "Effect":"DIncrease the chosen bonus to +Rank."
+    },
+    {
+        "Talent":"Devotees",
+        "Cost":30,
+        "Prerequisites":
+        [
+            "<Interaction Skill> 4"
+        ],
+        "Effect":"You gain a mob of Troops as devoted followers."
+    },
+    {
+        "Talent":"Dual Wielder",
+        "Cost":30,
+        "Prerequisites":
+        [
+            "<Attack Skill> 4"
+        ],
+        "Effect":"May wield two melee weapons or two pistols."
+    },
+    {
+        "Talent":"Favoured by the Warp",
+        "Cost":40,
+        "Prerequisites":
+        [
+            "Psyker"
+        ],
+        "Effect":"May reroll psychic mishaps."
+    },
+    {
+        "Talent":"Fearless",
+        "Cost":30,
+        "Prerequisites":
+        [
+            "Willpower 5"
+        ],
+        "Effect":"Fearless and immune to Intimidation."
+    },
+    {
+        "Talent":"Hammer Blow",
+        "Cost":20,
+        "Prerequisites":
+        [
+            "Weapon Skill 3"
+        ],
+        "Effect":"+1/2 Rank ED to any All-Out Attack."
+    },
+    {
+        "Talent":"Hardy",
+        "Cost":30,
+        "Prerequisites":
+        [
+            "Toughness 3"
+        ],
+        "Effect":"Test Toughness to restore Shock."
+    },
+    {
+        "Talent":"Hatred",
+        "Cost":30,
+        "Prerequisites":
+        [
+            "Weapon Skill 3"
+        ],
+        "Effect":"+Rank on melee attacks against a chosen keyword; +2DN for non-hostile Interaction tests with that key-word."
+    },
+    {
+        "Talent":"Heroic Charge",
+        "Cost":20,
+        "Prerequisites":
+        [
+            "Athletics 2",
+            "Weapon Skill 2"
+        ],
+        "Effect":"+1/2 Rank to melee attacks made as part of a charge."
+    },
+    {
+        "Talent":"Inspired Blessing",
+        "Cost":25,
+        "Prerequisites":
+        [
+            "Adeptus Ministorum"
+        ],
+        "Effect":"Chant as a free action to heal Shock in you and your allies."
+    },
+    {
+        "Talent":"Legacy of Sorrow",
+        "Cost":20,
+        "Prerequisites":
+        [
+            "Aeldari"
+        ],
+        "Effect":"No longer suffers from Intense Emotion, +1 Glory when passing a Defiance Check."
+    },
+    {
+        "Talent":"Let the Galaxy Burn",
+        "Cost":20,
+        "Prerequisites":
+        [
+            "Chaos"
+        ],
+        "Effect":"Bonus Glory when you incapacitate an opponent."
+    },
+    {
+        "Talent":"Loremaster",
+        "Cost":30,
+        "Prerequisites":
+        [
+            "Scholar 2"
+        ],
+        "Effect":"Gain skill bonuses for a specific subject."
+    },
+    {
+        "Talent":"Mark of Chaos",
+        "Cost":30,
+        "Prerequisites":
+        [
+            "<Mark of Chaos>"
+        ],
+        "Effect":"Dedicate yourself to a Chaos God to gain a benefi t."
+    },
+    {
+        "Talent":"Marksman",
+        "Cost":20,
+        "Prerequisites":
+        [
+            "Ballistic Skill 3"
+        ],
+        "Effect":"Aim may reduce Called Shot DN."
+    },
+    {
+        "Talent":"Mastered Paths",
+        "Cost":20,
+        "Prerequisites":
+        [
+            "Aeldari",
+            "Asuryani"
+        ],
+        "Effect":"Select a second Background and gain the benefits."
+    },
+    {
+        "Talent":"Mob Rule",
+        "Cost":20,
+        "Prerequisites":
+        [
+            "Ork"
+        ],
+        "Effect":"+Rank to Resolve tests for Ork followers."
+    },
+    {
+        "Talent":"Peer",
+        "Cost":30,
+        "Prerequisites":
+        [
+            "Persuasion 3"
+        ],
+        "Effect":"+Rank to Influence and Interaction Skills in social situations."
+    },
+    {
+        "Talent":"Primaris Perspective",
+        "Cost":40,
+        "Prerequisites":
+        [
+           "Primaris Astartes"
+        ],
+        "Effect":"+1/2 Rank to Resolve and Corruption Tests. +Rank to Scholar tests regarding historical events."
+    },
+    {
+        "Talent":"Rite of Fear",
+        "Cost":30,
+        "Prerequisites":
+        [
+            "Adeptus Mechanicus"
+        ],
+        "Effect":"Project cone of fear-causing subsonics."
+    },
+    {
+        "Talent":"Rite of Magnometrics",
+        "Cost":20,
+        "Prerequisites":
+        [
+            "Adeptus Mechanicus"
+        ],
+        "Effect":"Manipulate metal objects without touching them."
+    },
+    {
+        "Talent":"Rite of Pure Thought",
+        "Cost":30,
+        "Prerequisites":
+        [
+            "Adeptus Mechanicus"
+        ],
+        "Effect":"+1/2 Rank to Fear tests and resist Interaction attacks; +1/2 Rank to Investigation tests."
+    },
+    {
+        "Talent":"Shootier",
+        "Cost":35,
+        "Prerequisites":
+        [
+            "Ork"
+        ],
+        "Effect":"Increase Salvo value by 1⁄2 Rank."
+    },
+    {
+        "Talent":"Sidestep",
+        "Cost":30,
+        "Prerequisites":
+        [
+            "Initiative 3"
+        ],
+        "Effect":"Sacrifice move to gain +Rank Defence and +Rank resilience vs. one attack."
+    },
+    {
+        "Talent":"Special Weapons Trooper",
+        "Cost":20,
+        "Prerequisites":
+        [
+            "Ballistic Skill 3",
+            "Imperial Guardsman",
+            "Tempestus Scion"
+        ],
+        "Effect":"Gain a choice of special weapons as standard wargear."
+    },
+    {
+        "Talent":"Steel and Doom",
+        "Cost":30,
+        "Prerequisites":
+        [
+            "Rank 3",
+            "Adeptus Astartes"
+        ],
+        "Effect":"+1/2 Rank bonus damage with Space Marine weapons"
+    },
+    {
+        "Talent":"Storm of Death",
+        "Cost":30,
+        "Prerequisites":
+        [
+            "Weapon Skill 4"
+        ],
+        "Effect":"Reduce DN for Multi-attack in melee."
+    },
+    {
+        "Talent":"Superhuman <Attribute>",
+        "Cost":60,
+        "Prerequisites":
+        [
+            "<Attribute> 5"
+        ],
+        "Effect":"+Rank to all dice pools that incorporate <Attribute>."
+    },
+    {
+        "Talent":"Supreme Presence",
+        "Cost":30,
+        "Prerequisites":
+        [
+            "<Interaction Skill> 4"
+        ],
+        "Effect":"May target Rank +1 or one mob of troops without penalty for Interaction attacks."
+    },
+    {
+        "Talent":"The Emperor’s Light",
+        "Cost":25,
+        "Prerequisites":
+        [
+            "Adeptus Ministorum"
+        ],
+        "Effect":"Grants Faith and gives bonuses to Corruption tests and Fear tests for you and your allies."
+    },
+    {
+        "Talent":"Touched by Fate",
+        "Cost":30,
+        "Prerequisites":
+        [
+            "none"
+        ],
+        "Effect":"Gain +1/2 Rank Wrath at the beginning of each session."
+    },
+    {
+        "Talent":"Trademark Weapon",
+        "Cost":30,
+        "Prerequisites":
+        [
+            "<Attack Skill> 4"
+        ],
+        "Effect":"+Rank ED to all successful attacks with chosen weapon."
+    },
+    {
+        "Talent":"True Grit",
+        "Cost":40,
+        "Prerequisites":
+        [
+            "Toughness 4"
+        ],
+        "Effect":"Ignore the penalty for Lightly Wounded; +1DN for Heavily Wounded. +1/2 Rank to Wounds."
+    },
+    {
+        "Talent":"Uncanny <Trait>",
+        "Cost":40,
+        "Prerequisites":
+        [
+            "none"
+        ],
+        "Effect":"<Trait> increases by 1⁄2 Rank."
+    },
+    {
+        "Talent":"Unnatural <Skill>",
+        "Cost":60,
+        "Prerequisites":
+        [
+            "<Skill> 4"
+        ],
+        "Effect":"Reduce DN modifiers by +Rank for one skill."
+    },
+    {
+        "Talent":"Unquestioning Faith",
+        "Cost":20,
+        "Prerequisites":
+        [
+            "Willpower 3"
+        ],
+        "Effect":"Grants Faith and provides bonuses to resist psychic powers and effects."
+    }
+
+]
