@@ -1,0 +1,22 @@
+[
+    {
+        "Tier":1,
+        "MaximumStartingTalents":1
+    },
+    {
+        "Tier":2,
+        "MaximumStartingTalents":2
+    },
+    {
+        "Tier":3,
+        "MaximumStartingTalents":3
+    },
+    {
+        "Tier":4,
+        "MaximumStartingTalents":4
+    },
+    {
+        "Tier":5,
+        "MaximumStartingTalents":5
+    }
+]
