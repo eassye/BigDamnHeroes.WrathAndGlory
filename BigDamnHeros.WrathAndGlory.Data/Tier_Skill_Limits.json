@@ -1,0 +1,22 @@
+[
+    {
+        "Tier":1,
+        "SkillMaximum":4
+    },
+    {
+        "Tier":2,
+        "SkillMaximum":5
+    },
+    {
+        "Tier":3,
+        "SkillMaximum":6
+    },
+    {
+        "Tier":4,
+        "SkillMaximum":7
+    },
+    {
+        "Tier":5,
+        "SkillMaximum":8
+    }
+]
