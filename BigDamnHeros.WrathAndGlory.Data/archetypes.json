@@ -15,7 +15,7 @@
             "Archetype": "Crusader",
             "Tier": 3,
             "BP_Cost": 40,
-            "Description": "A holy warrior with unfl agging devotion to the God-Emperor."
+            "Description": "A holy warrior with unflagging devotion to the God-Emperor."
         }
     ],
     "Adepta Soroitas": [{
@@ -35,7 +35,7 @@
             "Archetype": "Imperial Guardsman",
             "Tier": 1,
             "BP_Cost": 0,
-            "Description": "A disciplined soldier, used to fi ghting amid multitudes."
+            "Description": "A disciplined soldier, used to fighting amid multitudes."
         },
         {
             "Archetype": "Tempestus Scion",
