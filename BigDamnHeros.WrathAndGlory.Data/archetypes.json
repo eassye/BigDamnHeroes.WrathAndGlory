@@ -1,0 +1,198 @@
+{
+    "Adeptus Ministorum": [{
+            "Archetype": "Ministorum Priest",
+            "Tier": 1,
+            "BP_Cost": 0,
+            "Description": "A zealous preacher of the Imperial Creed."
+        },
+        {
+            "Archetype": "Death Cult Assassin",
+            "Tier": 2,
+            "BP_Cost": 20,
+            "Description": "An agile killer, expressing worship through the art of death."
+        },
+        {
+            "Archetype": "Crusader",
+            "Tier": 3,
+            "BP_Cost": 40,
+            "Description": "A holy warrior with unfl agging devotion to the God-Emperor."
+        }
+    ],
+    "Adepta Soroitas": [{
+            "Archetype": "Sister Hospitaller",
+            "Tier": 1,
+            "BP_Cost": 0,
+            "Description": "A pious healer dedicated to care of both body and soul."
+        },
+        {
+            "Archetype": "Sister of Battle",
+            "Tier": 2,
+            "BP_Cost": 40,
+            "Description": "A determined warrior, filled with purity and faith."
+        }
+    ],
+    "Astra Militarum": [{
+            "Archetype": "Imperial Guardsman",
+            "Tier": 1,
+            "BP_Cost": 0,
+            "Description": "A disciplined soldier, used to fi ghting amid multitudes."
+        },
+        {
+            "Archetype": "Tempestus Scion",
+            "Tier": 2,
+            "BP_Cost": 30,
+            "Description": "An elite, highly-trained soldier, used to undertaking special missions."
+        },
+        {
+            "Archetype": "Imperial Commissar",
+            "Tier": 3,
+            "BP_Cost": 50,
+            "Description": "A fearsome leader, inspiring both dread and respect in great measure."
+        }
+    ],
+    "Adeptus Astartes": [{
+            "Archetype": "Space Marine Scout",
+            "Tier": 2,
+            "BP_Cost": 20,
+            "Description": "A stealthy warrior adept at reconnaissance."
+        },
+        {
+            "Archetype": "Tactical Space Marine",
+            "Tier": 3,
+            "BP_Cost": 50,
+            "Description": "A versatile warrior, veteran of a hundred battles."
+        },
+        {
+            "Archetype": "Primaris Marine Intercessor",
+            "Tier": 4,
+            "BP_Cost": 60,
+            "Description": "A skilled and focused warrior, adept at bringing death at range. "
+        }
+    ],
+    "Agents of the Imperium": [{
+            "Archetype": "Inquisitional Acolyte",
+            "Tier": 1,
+            "BP_Cost": 0,
+            "Description": "A representative of the Inquisition, adaptable and possessing great potential."
+        },
+        {
+            "Archetype": "Inquisitorial Adept",
+            "Tier": 1,
+            "BP_Cost": 0,
+            "Description": "A learned scholar and scribe, adept at navigating bureaucratic obstacles."
+        },
+        {
+            "Archetype": "Rogue Trader",
+            "Tier": 2,
+            "BP_Cost": 40,
+            "Description": "An adventuresome and influential explorer with their own space vessel."
+        },
+        {
+            "Archetype": "Sanctioned Psyker",
+            "Tier": 2,
+            "BP_Cost": 50,
+            "Description": "Able to focus the warp through their mind, they are blessed or cursed with psychic powers."
+        },
+        {
+            "Archetype": "Inquisitor",
+            "Tier": 4,
+            "BP_Cost": 70,
+            "Description": "A bearer of profound Imperial authority, adept at discovering the truth in the shadows."
+        }
+    ],
+    "Adeptus Mechanicus": [{
+            "Archetype": "Skitarius",
+            "Tier": 2,
+            "BP_Cost": 40,
+            "Description": "A warrior of the Machine Cult, sturdy and reliable."
+        },
+        {
+            "Archetype": "Tech-Priest",
+            "Tier": 3,
+            "BP_Cost": 60,
+            "Description": "A learned scholar and scribe, adept at navigating bureaucratic obstacles."
+        }
+    ],
+    "Scum": [{
+            "Archetype": "Ganger",
+            "Tier": 1,
+            "BP_Cost": 0,
+            "Description": "A resourceful and tenacious survivor from the depths of enormous industrial cities."
+        },
+        {
+            "Archetype": "Scavvy",
+            "Tier": 2,
+            "BP_Cost": 10,
+            "Description": "A mutant—cast out and reviled—yet their mutations give them power."
+        },
+        {
+            "Archetype": "Desperado",
+            "Tier": 3,
+            "BP_Cost": 30,
+            "Description": "A savvy and dangerous bounty hunter, mercenary, and gun for hire."
+        }
+    ],
+    "Renegades": [{
+            "Archetype": "Cultist",
+            "Tier": 1,
+            "BP_Cost": 0,
+            "Description": "A disciple of the Ruinous Powers, eager to gain their capricious favour."
+        },
+        {
+            "Archetype": "Rouge Psyker",
+            "Tier": 2,
+            "BP_Cost": 50,
+            "Description": "An unsanctioned bearer of psychic powers, wielding the warp’s power without discipline."
+        },
+        {
+            "Archetype": "Chaos Space Marine",
+            "Tier": 3,
+            "BP_Cost": 50,
+            "Description": "A renegade warrior and death-dealer, a dark reflection of their noble brethren."
+        },
+        {
+            "Archetype": "Heretek",
+            "Tier": 3,
+            "BP_Cost": 60,
+            "Description": "A tinkerer, corruptor of machine-spirits, a bearer of the sin of innovation."
+        }
+    ],
+    "Aeldari": [{
+            "Archetype": "Corsair",
+            "Tier": 1,
+            "BP_Cost": 0,
+            "Description": "A space-faring pirate of an ancient race."
+        },
+        {
+            "Archetype": "Ranger",
+            "Tier": 2,
+            "BP_Cost": 30,
+            "Description": "A wanderer, a scout, and tracker for the good of their people."
+        },
+        {
+            "Archetype": "Warlock",
+            "Tier": 3,
+            "BP_Cost": 80,
+            "Description": "A powerful psyker, wielding strictly-guided powers for the Aeldari cause."
+        }
+    ],
+    "Orks": [{
+            "Archetype": "Ork Boy",
+            "Tier": 1,
+            "BP_Cost": 0,
+            "Description": "A brutish warrior and thug who believes that might makes right."
+        },
+        {
+            "Archetype": "Kommando",
+            "Tier": 2,
+            "BP_Cost": 30,
+            "Description": "A stealthy and cunning warrior who knows how to turn almost any battle to his advantage."
+        },
+        {
+            "Archetype": "Ork Nob",
+            "Tier": 3,
+            "BP_Cost": 60,
+            "Description": "A savage warrior and capable leader, using brute force to succeed where others fail."
+        }
+    ]
+}
