@@ -1,6 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace BigDamnHeros.WrathAndGlory.Service.Test
+namespace BigDamnHeroes.WrathAndGlory.Service.Test
 {
     [TestClass]
     public class UnitTest1
