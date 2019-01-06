@@ -1,0 +1,38 @@
+# Node.js
+# Build a general Node.js project with npm.
+# Add steps that analyze code, save build artifacts, deploy, and more:
+# https://docs.microsoft.com/azure/devops/pipelines/languages/javascript
+
+trigger:
+- dev
+
+pool:
+  vmImage: 'Ubuntu-16.04'
+
+steps:
+- task: NodeTool@0
+  inputs:
+    versionSpec: '8.x'
+  displayName: 'Install Node.js'
+
+- script: |
+    npm install
+    npm run build
+  displayName: 'npm install and build'
+
+- script: ng lint
+  displayName: 'Lint Validation'
+
+- task: ArchiveFiles@2
+  inputs:
+    rootFolderOrFile: '$(System.DefaultWorkingDirectory)/dist/BigDamnHeroes.WrathAndGlory'
+    includeRootFolder: false
+
+- task: PublishBuildArtifacts@1
+
+# Will need to run unit test using mocha and chai, azure agent can not open chrome. 
+# - script: ng test
+#   displayName: 'Unit Test'
+
+# - script: ng e2e
+#   displayName: 'End to End UI Test'
