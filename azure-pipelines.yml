@@ -13,6 +13,9 @@ steps:
 - task: NuGetToolInstaller@0
   displayName: 'Get Tool Installer'
 
+- script: ls $(System.DefaultWorkingDirectory)
+  displayName: 'Where Am I'
+
 # .NET Core
 # Restore NuGet packages.
 - task: DotNetCoreCLI@2
@@ -20,6 +23,9 @@ steps:
     command: 'restore'
     verbosityRestore: 'normal' # Options: quiet, minimal, normal, detailed, diagnostic
   displayName: 'Restore Packages'
+
+- script: ls $(System.DefaultWorkingDirectory)
+  displayName: 'Where Am I'
 
 - script: dotnet build
   displayName: 'Build Project'
