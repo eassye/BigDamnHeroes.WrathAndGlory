@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigDamnHeros.WrathAndGlory.API", "BigDamnHeros.WrathAndGlory.API\BigDamnHeros.WrathAndGlory.API.csproj", "{9789D964-0938-4B79-84D2-E8D6B83C714E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigDamnHeroes.WrathAndGlory.API", "BigDamnHeroes.WrathAndGlory.API\BigDamnHeroes.WrathAndGlory.API.csproj", "{9789D964-0938-4B79-84D2-E8D6B83C714E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigDamnHeros.WrathAndGlory.Service", "BigDamnHeros.WrathAndGlory.Service\BigDamnHeros.WrathAndGlory.Service.csproj", "{D5A0C7CC-E695-4958-A84C-3C657959BC41}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigDamnHeroes.WrathAndGlory.Service", "BigDamnHeroes.WrathAndGlory.Service\BigDamnHeroes.WrathAndGlory.Service.csproj", "{D5A0C7CC-E695-4958-A84C-3C657959BC41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigDamnHeros.WrathAndGlory.Service.Test", "BigDamnHeros.WrathAndGlory.Service.Test\BigDamnHeros.WrathAndGlory.Service.Test.csproj", "{2CC99D44-3E37-4BF1-BDB1-25662038995D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigDamnHeroes.WrathAndGlory.Service.Test", "BigDamnHeroes.WrathAndGlory.Service.Test\BigDamnHeroes.WrathAndGlory.Service.Test.csproj", "{2CC99D44-3E37-4BF1-BDB1-25662038995D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

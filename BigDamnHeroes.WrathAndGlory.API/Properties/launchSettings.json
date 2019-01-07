@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "BigDamnHeros.WrathAndGlory.API": {
+    "BigDamnHeroes.WrathAndGlory.API": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/values",

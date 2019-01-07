@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BigDamnHeros.WrathAndGlory.Service\BigDamnHeros.WrathAndGlory.Service.csproj" />
+    <ProjectReference Include="..\BigDamnHeroes.WrathAndGlory.Service\BigDamnHeroes.WrathAndGlory.Service.csproj" />
   </ItemGroup>
 
 </Project>
