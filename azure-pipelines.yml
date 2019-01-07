@@ -19,13 +19,16 @@ steps:
   inputs:
     command: 'restore'
     verbosityRestore: 'normal' # Options: quiet, minimal, normal, detailed, diagnostic
+  displayName: 'Restore Packages'
 
 - script: dotnet build
+  displayName: 'Build Project'
 
 - task: ArchiveFiles@2
   inputs:
     rootFolderOrFile: '$(System.DefaultWorkingDirectory)/dist/BigDamnHeroes.WrathAndGlory'
     includeRootFolder: false
+  displayName: 'Archive Project'
 
 - task: PublishBuildArtifacts@1
 
