@@ -16,7 +16,6 @@ steps:
 - script: ls $(System.DefaultWorkingDirectory)
   displayName: 'Where Am I'
 
-# .NET Core
 # Restore NuGet packages.
 - task: DotNetCoreCLI@2
   inputs:
