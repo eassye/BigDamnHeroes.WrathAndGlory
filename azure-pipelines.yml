@@ -13,8 +13,8 @@ steps:
 - task: DotNetCoreInstaller@0
   inputs:
     packageType: 'sdk'
-    version: '2.2.0' # replace this value with the version that you need for your project
-  displayName: 'Install .NET Core 2.2.0'
+    version: '2.2.100' # replace this value with the version that you need for your project
+  displayName: 'Install .NET Core 2.2.100'
 
 - task: NuGetToolInstaller@0
   displayName: 'Get Tool Installer'
