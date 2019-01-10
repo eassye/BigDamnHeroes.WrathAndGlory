@@ -1,19 +1,25 @@
-using System;
-using System.Collections.Generic;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using BigDamnHeroes.WrathAndGlory.Service.Models;
+using System.Collections.Generic;
+using System;
 
-namespace BigDamnHeroes.WrathAndGlory.Service
+namespace BigDamnHeroes.WrathAndGlory.Service.Test
 {
-    public class SpeciesService
+    [TestClass]
+    public class SpeciesTest
     {
         private readonly SpeciesModel _speciesModel;
-        public SpeciesService()
+        private readonly SpeciesService _serviceUnderTest;
+        public SpeciesTest()
         {
             _speciesModel = new SpeciesModel();
+            _serviceUnderTest = new SpeciesService();
         }
 
-        public IEnumerable<SpeciesModel> ReturnSpeciesList()
+        [TestMethod]
+        public void TestThatSpeciesListReturnsExpectedData()
         {
+            //Arrange
             var speciesList = new List<SpeciesModel>();
             var abilitiesList = new List<String>();
 
@@ -29,8 +35,14 @@ namespace BigDamnHeroes.WrathAndGlory.Service
             _speciesModel.SpeciesAbilities = abilitiesList.ToArray();
 
             speciesList.Add(_speciesModel);
+
+            var expected = speciesList;
             
-            return speciesList;
+            //Act
+            var actual = _serviceUnderTest.ReturnSpeciesList();
+
+            //Assert
+            Assert.AreEqual(expected.ToString(), actual.ToString());
         }
     }
 }
