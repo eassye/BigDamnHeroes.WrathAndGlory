@@ -4,7 +4,7 @@ using BigDamnHeroes.WrathAndGlory.Service.Models;
 
 namespace BigDamnHeroes.WrathAndGlory.Service
 {
-    public class SpeciesService
+    public class SpeciesService : ISpeciesService
     {
         private readonly SpeciesModel _speciesModel;
         public SpeciesService()

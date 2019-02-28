@@ -14,10 +14,10 @@ namespace BigDamnHeroes.WrathAndGlory.API.Controllers
     [ApiController]
     public class SpeciesController : Controller
     {
-        private readonly SpeciesService _speciesService;
-        public SpeciesController( )
+        private readonly ISpeciesService _speciesService;
+        public SpeciesController(ISpeciesService speciesService)
         {
-            _speciesService = new SpeciesService();
+            _speciesService = speciesService;
         }
 
         [HttpGet]

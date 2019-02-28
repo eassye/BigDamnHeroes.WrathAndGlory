@@ -2,6 +2,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using BigDamnHeroes.WrathAndGlory.Service.Models;
 using System.Collections.Generic;
 using System;
+using System.Diagnostics;
 
 namespace BigDamnHeroes.WrathAndGlory.Service.Test
 {
@@ -19,6 +20,7 @@ namespace BigDamnHeroes.WrathAndGlory.Service.Test
         [TestMethod]
         public void TestThatSpeciesListReturnsExpectedData()
         {
+            
             //Arrange
             var speciesList = new List<SpeciesModel>();
             var abilitiesList = new List<String>();
@@ -37,10 +39,12 @@ namespace BigDamnHeroes.WrathAndGlory.Service.Test
             speciesList.Add(_speciesModel);
 
             var expected = speciesList;
-            
+        
             //Act
             var actual = _serviceUnderTest.ReturnSpeciesList();
 
+            System.Console.WriteLine("Expected: ", expected);
+            System.Console.WriteLine("Actual: ", actual);
             //Assert
             Assert.AreEqual(expected.ToString(), actual.ToString());
         }

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using BigDamnHeroes.WrathAndGlory.Service;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -27,6 +28,7 @@ namespace BigDamnHeroes.WrathAndGlory.API
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2).AddControllersAsServices();
             services.AddCors();
+            services.AddSingleton<ISpeciesService, SpeciesService>();
         }
 
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
