@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using BigDamnHeroes.WrathAndGlory.Service.Models;
 
-namespace BigDamnHeroes.WrathAndGlory.Service
+namespace BigDamnHeroes.WrathAndGlory.Service.Services
 {
     public class SpeciesService : ISpeciesService
     {

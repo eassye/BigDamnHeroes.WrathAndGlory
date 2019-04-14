@@ -1,5 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using BigDamnHeroes.WrathAndGlory.Service.Models;
+using BigDamnHeroes.WrathAndGlory.Service.Services;
 using System.Collections.Generic;
 using System;
 using System.Diagnostics;
