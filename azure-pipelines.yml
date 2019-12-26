@@ -1,0 +1,46 @@
+# ASP.NET Core (.NET Framework)
+# Build and test ASP.NET Core projects targeting the full .NET Framework.
+# Add steps that publish symbols, save build artifacts, and more:
+# https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core
+
+trigger:
+- azure-pipelines
+
+pool:
+  vmImage: 'VS2017-Win2016'
+
+steps:
+- task: DotNetCoreInstaller@0
+  inputs:
+    packageType: 'sdk'
+    version: '2.2.100' # replace this value with the version that you need for your project
+  displayName: 'Install .NET Core 2.2.100'
+
+- task: NuGetToolInstaller@0
+  displayName: 'Get Tool Installer'
+
+- script: ls $(System.DefaultWorkingDirectory)
+  displayName: 'Where Am I'
+
+# Restore NuGet packages.
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'restore'
+    verbosityRestore: 'normal' # Options: quiet, minimal, normal, detailed, diagnostic
+  displayName: 'Restore Packages'
+
+- script: dotnet build
+  displayName: 'Build Project'
+
+- task: ArchiveFiles@2
+  inputs:
+    rootFolderOrFile: '$(System.DefaultWorkingDirectory)'
+    includeRootFolder: false
+  displayName: 'Archive Project'
+
+- task: PublishBuildArtifacts@1
+
+#- task: VSTest@2
+#  inputs:
+#    platform: '$(buildPlatform)'
+#    configuration: '$(buildConfiguration)'
